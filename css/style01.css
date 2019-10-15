@@ -1,0 +1,48 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+ul {
+    padding: 50px;
+
+}
+ul {
+    list-style-type: none;
+}
+
+.all-lists{
+    line-height: 50px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.first-list-containier ul {
+    background-color: #e8370e;
+    font-weight: 400;
+}
+.first-list-containier ul> li
+ {
+    background-color: #711c08;
+
+}
+
+ul  {
+    background-color: #3f51b5;
+    font-weight: 700;
+}
+ul> li {
+    background-color:#00bcd4;
+}
+
+
+ul li > ul {
+    background-color: #8bc34a;
+    font-weight: 300;
+}
+
+
+div.all-lists ul li > ul li {
+    background-color: #009688;
+    font-weight: 300;
+}
+
